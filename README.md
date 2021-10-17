@@ -1,5 +1,5 @@
 # ArcadeLife
-A fast, interactive implementation of Conway's Game of Life using vanilla Javascript / HTML5 canvas that I created as an interactive background for my <a href="https://www.dompajak.com">website</a>:
+A fast, interactive implementation of Conway's Game of Life using vanilla Javascript / HTML5 canvas that I created as an interactive background for my <a href="https://www.dompajak.com">website</a> (You need to press the chip icon next to the purple button!):
 
 ![Life](https://github.com/8bitkick/ArcadeLife/blob/main/images/ArcadeLife.gif?raw=true)
 
